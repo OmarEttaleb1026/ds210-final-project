@@ -1,0 +1,8 @@
+[package]
+name = "ds210_finalproj"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+zip = "0.5"
+csv = "1.3"
